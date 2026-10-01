@@ -1,1 +1,1 @@
-# horus-info
+# info
